@@ -5,7 +5,7 @@
 ### Desafio 2 – Trabalhando com *middlewares* (ToDos API)
 
 #### :computer: Descrição
-Esta é uma API para gerenciar tarefas (em inglês *todos*), em que é permitida a criação de um usuário com `name` e `username` bem como fazer o CRUD (*Create*, *Read*, *Update* *and* *Delete*)de *todos*. Neste projeto são trabalhados os *middlewares* da API.
+Esta é uma API para gerenciar tarefas (em inglês *todos*), em que é permitida a criação de um usuário com `name` e `username` bem como fazer o CRUD (*Create*, *Read*, *Update* *and* *Delete*) de *todos*. Neste projeto são trabalhados os *middlewares* da API.
 
 #### :hammer_and_wrench: Funcionalidades
 - Criar um novo *todo*.
